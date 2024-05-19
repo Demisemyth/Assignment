@@ -22,7 +22,7 @@ To run this code:
    ```bash
    pip install requests nltk
    ```
-3. Copy the provided code into a Python file (e.g., `source_identification.py`).
+3. Copy the provided code into a Python file (e.g., `testone.py`).
 4. Modify the `api_url` variable to point to the desired API endpoint.
 5. Run the Python script using the following command in your terminal or command prompt:
    ```bash
